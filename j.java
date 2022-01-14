@@ -1,6 +1,6 @@
 class J
 {
     public static void main(String[] args) {
-        System.out.println("ugi");
+        System.out.println("ugnknknoi");
     }
 }
